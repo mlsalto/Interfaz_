@@ -148,6 +148,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\..\..\Downloads\logo_crea_fondo_letras.png" />
     <Image Include="app.ico" />
   </ItemGroup>
   <ItemGroup>
